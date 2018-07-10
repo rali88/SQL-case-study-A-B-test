@@ -1,4 +1,4 @@
-# SQL case study: A/Btest
+# SQL case study: A/B test
 SQL for A/B test on model yammer data.
 
 Link to SQL case study:
